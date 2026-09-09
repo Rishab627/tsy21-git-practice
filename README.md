@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Rishab 
+- **Developer:** Rishab 
 - **Hobby:** Playing games
 - **Preferred Developmen Tool:** VS Code

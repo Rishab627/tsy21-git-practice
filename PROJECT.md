@@ -1,7 +1,7 @@
 # Project Idea
 ## Project Name
-TBD
+Campus Task Organizer
 ## Problem to Solve
 TBD
 ## Target User
-TBD
+University students who need a simple way to organize assignments, deadlines, and class responsibilities.
